@@ -1,6 +1,7 @@
 .App {
   text-align: center;
   min-height: 100% !important;
+  font-family: 'Roboto Slab', serif;
 }
 
 .App-logo {

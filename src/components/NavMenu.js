@@ -44,7 +44,7 @@ export default function NavMenu() {
       {['left'].map((anchor) => (
         <React.Fragment key={anchor}>
           <Button onClick={toggleDrawer(anchor, true)}>
-          <i className="fa-regular fa-hose text-blue-900 text-2xl md:text-3xl lg:text-4xl"></i>
+          <i className="fa-regular fa-hose text-white text-2xl md:text-3xl lg:text-4xl"></i>
 
 
 
