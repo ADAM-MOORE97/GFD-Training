@@ -39,7 +39,7 @@ export default function () {
 
                 </div>
             </div>
-            <div className="mx-6 py-10 text-center text-white md:text-left">
+            <div className="mx-6 py-10 text-center  text-white md:text-left">
                 <div className="grid grid-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
                     <div className="">
                  
@@ -73,7 +73,7 @@ export default function () {
                      
                     </div>
                     <div className="">
-                        <h6 className="uppercase mb-4 flex justify-center md:justify-start text-yellow-300 underline">
+                        <h6 className="uppercase mb-4 flex justify-center text-yellow-300 underline">
                             Internal Training Information
                         </h6>
                         <p className="mb-4">
@@ -90,7 +90,7 @@ export default function () {
                         </p>
                     </div>
                     <div className="">
-                        <h6 className="uppercase mb-4 flex justify-center md:justify-start text-yellow-300 underline">
+                        <h6 className="uppercase mb-4 flex justify-center text-yellow-300 underline">
                             External Training Information
                         </h6>
                         <p className="mb-4">
@@ -107,10 +107,10 @@ export default function () {
                         </p>
                     </div>
                     <div className="">
-                        <h6 className="uppercase underline mb-4 flex justify-center md:justify-start text-yellow-300">
+                        <h6 className="uppercase underline mb-4 flex justify-center  text-yellow-300">
                             Training Chief Eric Valles
                         </h6>
-                        <p className="flex items-center justify-center md:justify-start mb-4 text-yellow-300">
+                        <p className="flex items-center justify-center  mb-4 text-yellow-300">
                             <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="home"
                                 className="w-4 mr-4" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
                                 <path fill="currentColor"
@@ -119,7 +119,7 @@ export default function () {
                             </svg>
                             1515 23rd Ave, Gulfport, MS 39501
                         </p>
-                        <p className="flex items-center justify-center md:justify-start mb-4 text-yellow-300">
+                        <p className="flex items-center justify-center  mb-4 text-yellow-300">
                             <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="envelope"
                                 className="w-4 mr-4" role="img" xmlns="http://www.w3.org/2000/svg"
                                 viewBox="0 0 512 512">
@@ -129,7 +129,7 @@ export default function () {
                             </svg>
                             <a className='text-yellow-300 no-underline hover:text-red-700' href="mailto:evalles@gulfport-ms.gov">evalles@gulfport-ms.gov</a>
                         </p>
-                        <p className="flex items-center justify-center md:justify-start mb-4 text-yellow-300">
+                        <p className="flex items-center justify-center mb-4 text-yellow-300">
                             <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="phone"
                                 className="w-4 mr-4" role="img" xmlns="http://www.w3.org/2000/svg"
                                 viewBox="0 0 512 512">
