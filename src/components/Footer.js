@@ -5,7 +5,7 @@ export default function () {
         <footer className="text-center lg:text-left bg-blue-800 text-gray-300">
             <div className="flex justify-center items-center p-6 border-b-4 border-yellow-300 grid-2">
 
-                <div className='mr-12 text-white'>
+                <div className='mr-12 text-white md:text-2xl'>
                     <em>"COMMUNITY IS THE FOUNDATION TO SUCCESS"</em>
                 </div>
 
