@@ -18,7 +18,7 @@ export default function Nav() {
         <img className='w-12 inline md:w-16 lg:w-20 2xl:w-24' src={gfdLogo}/>
         <h1 className='text-xs lg:text-lg 2xl:text-3xl'>Gulfport Fire Department Training Site</h1>
         </div>
-        <i class="fa-regular fa-user"></i>
+        
         <LoginPopup/>
         </div>
         
