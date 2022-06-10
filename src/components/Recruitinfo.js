@@ -39,13 +39,15 @@ export default function Recruitinfo() {
       </div>
   <div className='mt-6 mx-auto bg-blue-800 rounded-xl md:w-1/4'>
 <p>
-<a href='#' className='text-xl text-slate-50 no-underline hover:text-yellow-300'>
+<button className='text-xl text-slate-50 hover:text-yellow-300'>
+<a href='#' className='no-underline text-xl text-slate-50 hover:text-yellow-300'>
       
       Previous Recruit Classes  
       <i className="ml-6 fa-brands fa-youtube"></i>
       
     
   </a>
+</button>
 </p>
   </div>
     </div>
